@@ -1,5 +1,7 @@
 
-<h2 align="center">Hi there 👋, Jaimik Chauhan Here</h2>
+<h2 align="center"><img align="center" src="./avataaars.svg" height="200" width="200"/>
+<br/> 
+Hi there 👋, Jaimik Chauhan Here</h2>
 
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://jaimik64.github.io/profile)
 [![Linkedin: jaimik](https://img.shields.io/badge/-jaimik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaimikchauhan64/)](https://www.linkedin.com/in/jaimikchauhan64/)
@@ -9,7 +11,7 @@
 
 📫 How to reach me: jaimikchauhan10@gmail.com
 
-<img src="./" />
+
 
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jaimik64&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=jaimik64&show_icons=true&theme=tokyonight)
