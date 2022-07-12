@@ -9,6 +9,7 @@
 
 📫 How to reach me: jaimikchauhan10@gmail.com
 
+<img src="./" />
 
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jaimik64&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=jaimik64&show_icons=true&theme=tokyonight)
