@@ -2,6 +2,7 @@
 
 
 🔭 I’m currently working on MERN Stack
+<br/>
 📫 How to reach me: jaimikchauhan10@gmail.com
 <!--
 **jaimik64/jaimik64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
