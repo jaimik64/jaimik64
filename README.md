@@ -1,6 +1,6 @@
 
 <h2 align="center">
-  <a href="https://jaimik64.github.io/profile" target="_blank"><img align="center" src="./avataaars.svg" height="200" width="200"/></a>
+  <a href="https://jaimik64.github.io/profile" target="_blank"><img align="center" src="./avataaars.svg" height="200" width="200" /></a>
 <br/> 
 Hi there 👋, Jaimik Chauhan Here</h2>
 
