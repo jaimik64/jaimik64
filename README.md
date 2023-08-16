@@ -7,11 +7,9 @@ Hi there 👋, Jaimik Chauhan Here</h2>
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://jaimik64.github.io/profile)
 [![Linkedin: jaimik](https://img.shields.io/badge/-jaimik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaimikchauhan64/)](https://www.linkedin.com/in/jaimikchauhan64/)
 
-🔭 I’m currently working on ReactJs, NodeJS, ExpressJs, MongoDb, PHP, MySQL, Javascript, HTML5, TailWindCSS, BootStrap.
+🔭 I’m currently working on Angular, ReactJs, NodeJS, ExpressJs, MongoDb, PHP, MySQL, Javascript, HTML5, TailWindCSS, BootStrap, CSS.
 
 📫 How to reach me: jaimikchauhan10@gmail.com
-
-🌱 I’m currently learning AngularJS
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jaimik64&theme=tokyonight)
